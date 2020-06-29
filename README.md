@@ -1,6 +1,6 @@
 # baseq3a
 
-Unofficial Quake III Arena gamecode patch
+Port/modification of quakeconstruct (https://code.google.com/archive/p/quakeconstruct/) implemented based on Excessive Dawn's Unofficial Quake III Arena gamecode patch
 
 # What is done:
 
